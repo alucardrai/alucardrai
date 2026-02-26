@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Automation
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I hbuild ocmputers and play onlince games
+- ⚡ Fun fact: ... I build computers and play online games
 
 <!---
 alucardrai/alucardrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
