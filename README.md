@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alucardrai
+- 👋 Hi, I’m @AlucarRrai
 - 👀 I’m interested in ... IT
-- 🌱 I’m currently learning ... PowerShell
+- 🌱 I’m currently learning ... Git, PowerShell, & Azure
 - 💞️ I’m looking to collaborate on ...Automation
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/Him
